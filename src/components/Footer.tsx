@@ -33,7 +33,7 @@ export function Footer() {
             <PiDiscordLogoBold />
           </a>
           <a
-            href="https://www.patreon.com/Radon_Games"
+            href=""
             target="_blank"
             class="transition-colors hover:text-accent-primary"
             aria-label="Patreon"
